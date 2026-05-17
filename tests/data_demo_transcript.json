@@ -1,0 +1,21 @@
+{
+  "language": "en",
+  "segments": [
+    {
+      "id": 0,
+      "start": 11.6,
+      "end": 27.2,
+      "text": " I am working late, do you know we're behind on our workouts this month?",
+      "words": [
+        { "word": " I", "start": 11.6, "end": 11.8, "probability": 0.9 },
+        { "word": " am", "start": 11.8, "end": 12.1, "probability": 0.9 },
+        { "word": " working", "start": 12.6, "end": 24.1, "probability": 0.2 },
+        { "word": " late,", "start": 24.1, "end": 24.6, "probability": 0.8 },
+        { "word": " do", "start": 24.6, "end": 24.8, "probability": 0.9 },
+        { "word": " you", "start": 24.8, "end": 25.0, "probability": 0.9 },
+        { "word": " know", "start": 25.0, "end": 25.3, "probability": 0.9 }
+      ]
+    }
+  ]
+}
+
